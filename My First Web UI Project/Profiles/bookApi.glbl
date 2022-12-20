@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>bookApi</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'6ecfa33f15601308873a9bed0c55c2cfc96fb478f58d00bc2a6acaeb1b9a438f'</initValue>
+      <name>token</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

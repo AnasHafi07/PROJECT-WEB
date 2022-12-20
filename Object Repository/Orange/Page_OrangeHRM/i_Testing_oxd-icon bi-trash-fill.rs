@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Testing_oxd-icon bi-trash-fill</name>
+   <tag></tag>
+   <elementGuidId>47849313-caa0-4fec-a39c-73acc036a581</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div/div[3]/ul/li/ul/li[7]/div/div/div/div[2]/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.--last.oxd-tree-node-wrapper > div.oxd-tree-node-content > div.oxd-sheet.oxd-sheet--rounded.oxd-sheet--gutters.oxd-sheet--pastel-white.org-structure-card.--edit > div.org-action > button.oxd-icon-button.org-action-icon > i.oxd-icon.bi-trash-fill</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>fb67929d-83bb-49be-8b84-62eeb9affbb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-icon bi-trash-fill</value>
+      <webElementGuid>2dcdc2eb-b31f-45c1-bf14-b82667eba1f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-paper-container&quot;]/div[@class=&quot;org-container&quot;]/ul[@class=&quot;oxd-tree-view&quot;]/li[@class=&quot;oxd-tree-node --parent --open --last org-structure&quot;]/ul[@class=&quot;oxd-tree-node-child&quot;]/li[@class=&quot;oxd-tree-node --last&quot;]/div[@class=&quot;--last oxd-tree-node-wrapper&quot;]/div[@class=&quot;oxd-tree-node-content&quot;]/div[@class=&quot;oxd-sheet oxd-sheet--rounded oxd-sheet--gutters oxd-sheet--pastel-white org-structure-card --edit&quot;]/div[@class=&quot;org-action&quot;]/button[@class=&quot;oxd-icon-button org-action-icon&quot;]/i[@class=&quot;oxd-icon bi-trash-fill&quot;]</value>
+      <webElementGuid>fc53d1e7-ca91-401c-88bd-e759c957d419</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div/div[3]/ul/li/ul/li[7]/div/div/div/div[2]/button/i</value>
+      <webElementGuid>3f613de5-ebbe-4c3d-85f1-ae7dd8068ae9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/div/div/div/div[2]/button/i</value>
+      <webElementGuid>24cde6cd-4875-4172-831f-9bcac12b3852</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
